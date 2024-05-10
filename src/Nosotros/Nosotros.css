@@ -1,0 +1,45 @@
+.InfoPersonal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 3rem 0rem;
+}
+.personal{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.imgpersonal{
+    border-radius: 100%;
+}
+.nombrePersonal{
+    font-family: 'pacifico', cursive;
+    color:#0033a0;
+    font-size: 2rem;
+    font-weight: 300;
+}
+.profesion{
+    font-size: 1.3rem;
+    text-align: center;
+    color: rgb(157, 158, 158);
+}
+.QuienesSomos{
+    background-color: white;
+    display: flex;
+    height: 12rem;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.tituloQS{
+    font-family: 'pacifico', cursive;
+    color:#0033a0;
+    font-size: 3rem;
+    font-weight: 300;
+}
+.parrafoQS{
+    font-size: 2rem;
+    text-align: center;
+    color: rgb(157, 158, 158);
+}

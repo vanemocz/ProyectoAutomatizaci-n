@@ -1,0 +1,7 @@
+.banner{
+    background-image: url("../assets/Logo_Grupo_SURA.webp");
+    background-position: top center;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 21%;
+}
